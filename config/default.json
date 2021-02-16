@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb://vedant1723:vedant1723@cluster0-shard-00-00.blzee.mongodb.net:27017,cluster0-shard-00-01.blzee.mongodb.net:27017,cluster0-shard-00-02.blzee.mongodb.net:27017/Notes?ssl=true&replicaSet=atlas-u6fsvl-shard-0&authSource=admin&retryWrites=true&w=majority",
+    "jwtSecret":"gurleenKaur"
+}
